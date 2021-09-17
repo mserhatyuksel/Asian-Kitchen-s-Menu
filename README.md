@@ -2,4 +2,4 @@
 
 [Live Demo](https://asiankitchen-msy.web.app/)
 
-[img](ss.png)
+<img src="ss.png"/>
